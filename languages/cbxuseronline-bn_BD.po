@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: CBX User Online v1.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-08-20 06:00:11+0000\n"
+"PO-Revision-Date: 2015-10-06 10:09:38+0000\n"
 "Last-Translator: manchumahara <sabuj@codeboxr.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -103,20 +103,20 @@ msgstr ""
 msgid "http://wpboxr.com"
 msgstr ""
 
-#: includes/class-cbxuseronline-helper.php:371
+#: includes/class-cbxuseronline-helper.php:387
 #@ cbxuseronline
 msgid " including"
-msgstr ""
+msgstr " যেখানে"
 
-#: includes/class-cbxuseronline-helper.php:375
+#: includes/class-cbxuseronline-helper.php:391
 #@ cbxuseronline
 msgid " online"
-msgstr ""
+msgstr " অনলাইন "
 
-#: includes/class-cbxuseronline-helper.php:377
+#: includes/class-cbxuseronline-helper.php:393
 #@ cbxuseronline
 msgid " on this page"
-msgstr ""
+msgstr "এই পাতায়"
 
 #: includes/class-cbxuseronlinesettings.php:354
 #@ default
@@ -136,7 +136,7 @@ msgstr ""
 #: public/class-cbxuseronline-public.php:180
 #@ cbxuseronline
 msgid "Guest"
-msgstr ""
+msgstr "অতিথি"
 
 #: widgets/cbxonline-widget.php:42
 #@ cbxuseronline
@@ -188,12 +188,12 @@ msgstr ""
 msgid "Show mobile or desktop logged in status"
 msgstr ""
 
-#: includes/class-cbxuseronline-helper.php:398
-#: includes/class-cbxuseronline-helper.php:401
-#: includes/class-cbxuseronline-helper.php:442
-#: includes/class-cbxuseronline-helper.php:445
-#: includes/class-cbxuseronline-helper.php:464
-#: includes/class-cbxuseronline-helper.php:467
+#: includes/class-cbxuseronline-helper.php:414
+#: includes/class-cbxuseronline-helper.php:417
+#: includes/class-cbxuseronline-helper.php:458
+#: includes/class-cbxuseronline-helper.php:461
+#: includes/class-cbxuseronline-helper.php:482
+#: includes/class-cbxuseronline-helper.php:485
 #, php-format
 #@ cbxuseronline
 msgid "%s @ %s"
@@ -218,75 +218,75 @@ msgstr ""
 #: includes/class-cbxuseronline-helper.php:338
 #@ cbxuseronline
 msgid "Total <strong>%</strong> users"
-msgstr ""
+msgstr "সর্বমোট <strong>%</strong> জন ব্যবহারকারী"
 
 #: includes/class-cbxuseronline-helper.php:338
 #@ cbxuseronline
 msgid "Total <strong>%</strong> user"
-msgstr ""
+msgstr "সর্বমোট <strong>%</strong> জন ব্যবহারকারী"
 
-#: includes/class-cbxuseronline-helper.php:346
+#: includes/class-cbxuseronline-helper.php:354
 #@ cbxuseronline
 msgid " <strong>%</strong> members"
-msgstr ""
+msgstr " <strong>%</strong> জন সদস্য"
 
-#: includes/class-cbxuseronline-helper.php:346
+#: includes/class-cbxuseronline-helper.php:354
 #@ cbxuseronline
 msgid " <strong>%</strong> member"
-msgstr ""
+msgstr " <strong>%</strong> জন সদস্য"
 
-#: includes/class-cbxuseronline-helper.php:356
+#: includes/class-cbxuseronline-helper.php:372
 #@ cbxuseronline
 msgid " <strong>%</strong> guests"
-msgstr ""
+msgstr " <strong>%</strong> জন অতিথি"
 
-#: includes/class-cbxuseronline-helper.php:356
+#: includes/class-cbxuseronline-helper.php:372
 #@ cbxuseronline
 msgid " <strong>%</strong> guest"
-msgstr ""
+msgstr " <strong>%</strong> জন অতিথি"
 
-#: includes/class-cbxuseronline-helper.php:367
+#: includes/class-cbxuseronline-helper.php:383
 #@ cbxuseronline
 msgid " <strong>%</strong> bots"
 msgstr ""
 
-#: includes/class-cbxuseronline-helper.php:367
+#: includes/class-cbxuseronline-helper.php:383
 #@ cbxuseronline
 msgid " <strong>%</strong> bot"
 msgstr ""
 
-#: includes/class-cbxuseronline-helper.php:404
+#: includes/class-cbxuseronline-helper.php:420
 #, php-format
 #@ cbxuseronline
 msgid "Most users ever online were <strong>%d</strong>, on %s"
 msgstr ""
 
-#: includes/class-cbxuseronline-helper.php:448
-#: includes/class-cbxuseronline-helper.php:470
+#: includes/class-cbxuseronline-helper.php:464
+#: includes/class-cbxuseronline-helper.php:488
 #@ cbxuseronline
 msgid "User ID: "
 msgstr ""
 
-#: includes/class-cbxuseronline-helper.php:449
-#: includes/class-cbxuseronline-helper.php:471
+#: includes/class-cbxuseronline-helper.php:465
+#: includes/class-cbxuseronline-helper.php:489
 #@ cbxuseronline
 msgid "IP Address: "
 msgstr ""
 
-#: includes/class-cbxuseronline-helper.php:450
-#: includes/class-cbxuseronline-helper.php:472
+#: includes/class-cbxuseronline-helper.php:466
+#: includes/class-cbxuseronline-helper.php:490
 #@ cbxuseronline
 msgid "User Agent: "
 msgstr ""
 
-#: includes/class-cbxuseronline-helper.php:451
-#: includes/class-cbxuseronline-helper.php:473
+#: includes/class-cbxuseronline-helper.php:467
+#: includes/class-cbxuseronline-helper.php:491
 #@ cbxuseronline
 msgid "URL"
 msgstr ""
 
-#: includes/class-cbxuseronline-helper.php:451
-#: includes/class-cbxuseronline-helper.php:473
+#: includes/class-cbxuseronline-helper.php:467
+#: includes/class-cbxuseronline-helper.php:491
 #@ cbxuseronline
 msgid "Referral"
 msgstr ""
